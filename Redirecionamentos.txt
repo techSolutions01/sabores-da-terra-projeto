@@ -1,7 +1,7 @@
 Redirecionamentos:
 
 https://10web-site.ai/38/valid-monitor/ = Sabores Da Terra = index.html ok em sobre.html e login.html e 38feed.html e contate-nos.html e index.html e shop-now1.html e monitorshop.html e coleção.html e product-tomate.html e product-cebola.html e product-maça.html e product-cominho.html e product-alface.html e product-banana.html
-https://10web-site.ai/38/valid-monitor/my-account/ = Login = Login.html, ok em index.html e Login.html e contate-nos.html e 38feed.html e shop-now1.html e monitorshop.html e coleção.html
+https://10web-site.ai/38/valid-monitor/my-account/ = Login = Login.html, ok em index.html e Login.html e contate-nos.html e 38feed.html e shop-now1.html e monitorshop.html e coleção.html e product-cebola.html e product-banana.html e product-cominho.html e product-maça.html e product-alface.html e product-tomate.html
 https://10web-site.ai/38/feed/ = feed = 38feed.html, ok em index.html e 38feed.html e coleção.html e Login.html e sobre.html e monitorshop.html e shop-now1.html e contate-nos.html
 https://10web-site.ai/38/valid-monitor/contact/ = contact = contate-nos.html, ok em index.html 38feed.html e coleção.html e Login.html e sobre.html e monitorshop.html e shop-now1.html e contate-nos.html 
 https://10web-site.ai/38/valid-monitor/about/ = sobre = sobre.html, ok em contate-nos.html e monitorshop.html e sobre.html e shop-now1.html e login.html e 38feed.html e index.html e coleção.html
