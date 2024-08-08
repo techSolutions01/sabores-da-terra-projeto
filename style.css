@@ -1,0 +1,38 @@
+.elementor-529493 .elementor-element.elementor-element-44ecac0f .tenweb-flip-box__front2 {
+    background-image: url(imagens/temperos.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.elementor-529493 .elementor-element.elementor-element-44ecac0f .tenweb-flip-box__back2 {
+    background-image: url(imagens/temperos.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.tenweb-flip-box--effect-fade .tenweb-flip-box .tenweb-flip-box__back2 {
+    opacity: 0;
+}
+.tenweb-flip-box__back2 {
+    background-color: #4054b2;
+    display: block;
+}
+.tenweb-flip-box__layer2 {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    -webkit-transition: all .6s ease-in-out;
+    -o-transition: all .6s ease-in-out;
+    transition: all .6s ease-in-out;
+}.elementor-element2 .elementor-element-18df82c62{
+    style attribute {
+        --translateY: -59.745px;
+        --e-transform-transition-duration: 100ms;
+        transform: translateY(var(--translateY));
+    }
+}
+.tenweb-flip-box__front2 {
+    background-color: #1abc9c;
+}
